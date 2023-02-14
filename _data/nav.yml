@@ -1,0 +1,18 @@
+- title: "Digital"
+  href: "/digital"
+
+- title: "Traditional"
+  href: "/traditional/"
+  
+- title: "Science"
+  subcategories:
+    - subtitle: "Science art"
+      subhref: "/science_art/"
+    - subtitle: "Science scribes"
+      subhref: "/science_scribes/"
+
+- title: "about"
+  href: "/about/"
+  
+- title: "contact"
+  href: "/contact/"
